@@ -8,3 +8,5 @@
           "a visual prosthesis",
          ]
   puts "All I got for valentine's day was #{gift.sample}."
+  ["Sasha", "Maleo"]
+  
